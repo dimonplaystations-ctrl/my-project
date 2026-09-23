@@ -1,2 +1,2 @@
 Praktic-2
-Ckoud storage
+Cloud storage
